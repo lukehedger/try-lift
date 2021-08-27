@@ -1,0 +1,9 @@
+# Dependencies
+node_modules
+
+# Generated files
+.serverless
+bin
+
+# Log files
+*.log
